@@ -1,0 +1,8 @@
+[package]
+name = "displayable_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+representable_interface = { git = "https://github.com/scframework/representable_interface", version = "0.1.0" }
+representable_macro = { git = "https://github.com/scframework/representable_macro", version = "0.1.2" }
